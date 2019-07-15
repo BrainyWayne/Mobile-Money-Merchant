@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605210275195",
+    "firebase_url": "https://mobilemoneyagent-f5f0c.firebaseio.com",
+    "project_id": "mobilemoneyagent-f5f0c",
+    "storage_bucket": "mobilemoneyagent-f5f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605210275195:android:74e59010dc2b59aa",
+        "android_client_info": {
+          "package_name": "com.mobilemoneyagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605210275195-dfn2vtvu0vqd5ijdk9enljpf8b8rhksv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06NtJTeSculM609MjnxR2rJppZzKWf_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605210275195-dfn2vtvu0vqd5ijdk9enljpf8b8rhksv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
