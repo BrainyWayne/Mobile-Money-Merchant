@@ -1,6 +1,6 @@
 # mobile_moneey_merchant
 
-A new Flutter application.
+Implement an MTN mobile money flutter app
 
 ## Getting Started
 
